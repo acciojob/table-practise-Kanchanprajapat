@@ -1,6 +1,7 @@
-.student-details {
+table {
   background-color: yellow;
+  border: 1px solid black;
 }
-.student-details, .student-details th, .student-details tr, .student-details td {
+th, tr, td {
   border: 1px solid black;
 }
